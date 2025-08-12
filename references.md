@@ -1,3 +1,26 @@
-# References
+## Some text to create conflicts
 
-* octocat 1 😈
+## Some text to create conflicts
+## Some text to create conflicts
+
+## Some text to create conflicts
+
+## Some text to create conflicts
+## Some text to create conflicts
+## Some text to create conflicts
+## Some text to create conflicts
+## Some text to create conflicts
+
+## Some text to create conflicts
+## Some text to create conflicts
+## Some text to create conflicts
+
+## Some text to create conflicts
+## Some text to create conflicts
+
+## Some text to create conflicts
+## Some text to create conflicts
+
+## Some text to create conflicts
+
+## Some text to create conflicts
